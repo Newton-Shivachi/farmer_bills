@@ -1,0 +1,11 @@
+streamlit==1.29.0
+pandas==2.2.1
+os==0.1
+warnings==0.1.4
+pandas==2.1.4
+numpy==1.26.2
+seaborn==0.13.1
+xgboost==2.0.3
+plotly==5.18.0
+plotly.figure_factory==0.0.2
+sklearn-preprocessing==0.1.0
